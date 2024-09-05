@@ -55,6 +55,7 @@ def main():
 
     # Título principal da aplicação
     st.write('# Analise de Telemarketing')
+    st.write('# Vasco da Gama')
     st.markdown('---')
 
     # Apresenta a imagem na barra lateral da aplicação
