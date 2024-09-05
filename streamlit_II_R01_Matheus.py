@@ -54,8 +54,7 @@ def main():
     )
 
     # Título principal da aplicação
-    st.write('# Analise de Telemarketing')
-    st.write('# Vasco da Gama')
+    st.write('# Módulo 28 - EBAC - STREAMLIT III e IV')
     st.markdown('---')
 
     # Apresenta a imagem na barra lateral da aplicação
